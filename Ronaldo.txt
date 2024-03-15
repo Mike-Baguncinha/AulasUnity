@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Sou Ronaldo
 Na verdade nem sou
 Eu quero fazer esse jogo logo
-=======
-Sou Ronaldo
->>>>>>> parent of bc3e912 (Text enhancement)
+
